@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\c++kinect\second\second\initkinect.h(89): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\c++kinect\second\second\initkinect.h(90): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  Second.vcxproj -> F:\C++Kinect\Second\Debug\Second.exe
